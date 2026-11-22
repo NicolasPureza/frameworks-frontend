@@ -1,11 +1,63 @@
-# 📚 Frameworks Front-end — Resumos e Projetos
+<div align="center">
 
-> Repositório central reunindo os resumos das aulas, materiais de apoio e links para os projetos práticos da disciplina de **Frameworks Front-end** (SENAI).
+# Frameworks Front-end — Portfólio & Resumos
 
-## 🎯 Objetivo
-Organizar todo o conteúdo estudado ao longo do semestre, facilitar revisões e centralizar o acesso aos repositórios e deploys de cada aula.
+Repositório central da disciplina **Frameworks Front-end** (SENAI), reunindo os resumos teóricos das aulas, materiais de apoio e o catálogo completo de projetos práticos publicados no GitHub e na Vercel.
 
-## 📂 Estrutura do Repositório
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+
+---
+
+## Sobre o Repositório
+
+Este repositório consolida toda a jornada prática e teórica desenvolvida ao longo da disciplina, abrangendo desde fundamentos da Web com **JavaScript puro (Vanilla JS)** e **CSS moderno** até o desenvolvimento de aplicações baseadas em componentes, consumo e criação de **APIs RESTful**, gestão ágil com **Scrum/Kanban** e publicação contínua em nuvem.
+
+### Objetivos
+- Documentar de forma clara os conceitos abordados em cada aula (`Aula 01` a `Aula 09`);
+- Centralizar o código-fonte de cada atividade prática em repositórios independentes e versionados;
+- Disponibilizar links de demonstração ao vivo para validação rápida das interfaces desenvolvidas.
+
+---
+
+## Projetos e Entregas da Disciplina
+
+| # | Aula | Projeto / Entrega | Código-Fonte | Aplicação Online | Stack Principal |
+| :---: | :--- | :--- | :---: | :---: | :--- |
+| **01** | Aula 01 | Painel de Estudos + Resumo + Relatório Técnico (PDF) | [GitHub](https://github.com/NicolasPureza/aula-01-apresentacao-e-vanilla-js) | [Acessar](https://aula-01-vanilla-js.vercel.app) | HTML5, CSS3, Vanilla JS |
+| **02** | Aula 02 | Configuração de Ambiente e Primeiro App (`v1.0.0`) | [GitHub](https://github.com/NicolasPureza/aula-02-ambiente-e-primeiro-react) | [Acessar](https://aula-02-primeiro-react.vercel.app) | React, Vite, Git |
+| **03** | Aula 03 | Cafeteria — Cardápio Digital e Pedidos | [GitHub](https://github.com/NicolasPureza/aula-03-projeto-01-react) | [Acessar](https://aula-03-projeto-01-react.vercel.app) | React, Vite |
+| **04** | Aula 03 | Loja de Tecnologia — Catálogo e Ofertas | [GitHub](https://github.com/NicolasPureza/aula-03-projeto-02-vue) | [Acessar](https://aula-03-projeto-02-vue.vercel.app) | Vue.js 3, Vite |
+| **05** | Aula 03 | Academia — Gestão de Treinos e Exercícios | [GitHub](https://github.com/NicolasPureza/aula-03-projeto-03-angular) | [Acessar](https://aula-03-projeto-03-angular.vercel.app) | Angular, TypeScript |
+| **06** | Aula 03 | Biblioteca de Filmes — Catálogo e Avaliações | [GitHub](https://github.com/NicolasPureza/aula-03-projeto-04-nextjs) | [Acessar](https://aula-03-projeto-04-nextjs.vercel.app) | Next.js (App Router) |
+| **07** | Aula 03 | Cópia e Análise de Repositório Open-Source | [GitHub](https://github.com/NicolasPureza/aula-03-projeto-05-copia-repositorio) | [Acessar](https://aula-03-projeto-05-copia.vercel.app) | React, Vite |
+| **08** | Aula 03 | Estudo Comparativo entre Frameworks Front-end | [GitHub](https://github.com/NicolasPureza/aula-03-comparacao-frameworks) | — | Documentação Markdown |
+| **09** | Aula 04 | Levantamento de 10 Projetos GitHub com APIs | [GitHub](https://github.com/NicolasPureza/aula-04-pesquisa-apis) | — | Documentação Markdown |
+| **10** | Aula 04 | API REST de Data e Hora (Back-end) | [GitHub](https://github.com/NicolasPureza/aula-04-backend-data-hora) | *Render* | Node.js, Express, CORS |
+| **11** | Aula 04 | Consumo da API de Data e Hora (Front-end) | [GitHub](https://github.com/NicolasPureza/aula-04-frontend-data-hora) | [Acessar](https://aula-04-frontend-data-hora.vercel.app) | React, Fetch API |
+| **12** | Aula 05 | API REST CRUD de Notas + Coleção Postman | [GitHub](https://github.com/NicolasPureza/aula-05-backend-projeto-notas) | *Render* | Node.js, Express, JSON |
+| **13** | Aula 05 | Gerenciador de Notas CRUD (Front-end) | [GitHub](https://github.com/NicolasPureza/aula-05-frontend-notas-react) | [Acessar](https://aula-05-frontend-notas-react.vercel.app) | React, Fetch API |
+| **14** | Aula 06 | NEXA — Gestão Ágil do Projeto Integrador | [GitHub](https://github.com/NicolasPureza/aula-06-gestao-projetos-frontend) | — | Scrum, Kanban, Git Flow |
+| **15** | Aula 07 | Layout Responsivo com Box Model e Flexbox | [GitHub](https://github.com/NicolasPureza/aula-07-frameworks-css) | [Acessar](https://aula-07-css-flexbox.vercel.app) | HTML5, CSS3 |
+| **16** | Aula 07 | Interface Utility-First com +30 Classes | [GitHub](https://github.com/NicolasPureza/aula-07-frameworks-css) | [Acessar](https://aula-07-tailwind.vercel.app) | HTML5, Tailwind CSS v4 |
+| **17** | Aula 08 | Gerenciador de Tarefas (JSX, Props, Listas) | [GitHub](https://github.com/NicolasPureza/aula-08-projeto-react-01) | [Acessar](https://aula-08-projeto-react-01.vercel.app) | React |
+| **18** | Aula 09 | Catálogo de Cursos Online (Hooks, API, Router) | [GitHub](https://github.com/NicolasPureza/aula-09-projeto-react-02) | [Acessar](https://aula-09-projeto-react-02.vercel.app) | React, React Router |
+
+---
+
+## Estrutura de Pastas (Resumos e Materiais)
+
 ```text
 FrontEnd-Summary/
 ├── README.md
@@ -37,46 +89,42 @@ FrontEnd-Summary/
     └── aula09_resumo.md
 ```
 
-## 📖 Conteúdo
-- 📚 Resumos estruturados de todas as aulas (Aula 01 a Aula 09)
-- 📝 Anotações, exemplos de código e conceitos-chave
-- 🚀 Repositórios práticos separados por aula e tecnologia
-- 🔗 Materiais de apoio e referências
+---
 
-## 🚀 Projetos da Disciplina
-Repositórios e publicações online dos projetos práticos desenvolvidos ao longo da matéria:
+## Stack Tecnológica
 
-| # | Aula | Projeto / Entrega | Repositório | Deploy | Tecnologia |
-| :---: | :--- | :--- | :--- | :--- | :--- |
-| **01** | Aula 01 | Painel de Estudos (Vanilla JS) + Resumo + Relatório PDF | [🔗 Repositório](https://github.com/NicolasPureza/aula-01-apresentacao-e-vanilla-js) | [🌐 Ver online](https://aula-01-vanilla-js.vercel.app) | HTML / CSS / Vanilla JS |
-| **02** | Aula 02 | Configuração de Ambiente e Primeiro React (`v1.0.0`) | [🔗 Repositório](https://github.com/NicolasPureza/aula-02-ambiente-e-primeiro-react) | [🌐 Ver online](https://aula-02-primeiro-react.vercel.app) | React / Vite / Git |
-| **03** | Aula 03 | Cafeteria — Cardápio Digital e Pedidos | [🔗 Repositório](https://github.com/NicolasPureza/aula-03-projeto-01-react) | [🌐 Ver online](https://aula-03-projeto-01-react.vercel.app) | React |
-| **04** | Aula 03 | Loja de Tecnologia — Catálogo e Ofertas | [🔗 Repositório](https://github.com/NicolasPureza/aula-03-projeto-02-vue) | [🌐 Ver online](https://aula-03-projeto-02-vue.vercel.app) | Vue.js 3 |
-| **05** | Aula 03 | Academia — Gestão de Treinos e Exercícios | [🔗 Repositório](https://github.com/NicolasPureza/aula-03-projeto-03-angular) | [🌐 Ver online](https://aula-03-projeto-03-angular.vercel.app) | Angular |
-| **06** | Aula 03 | Biblioteca de Filmes — Catálogo e Avaliações | [🔗 Repositório](https://github.com/NicolasPureza/aula-03-projeto-04-nextjs) | [🌐 Ver online](https://aula-03-projeto-04-nextjs.vercel.app) | Next.js (App Router) |
-| **07** | Aula 03 | Cópia de Repositório Open-Source | [🔗 Repositório](https://github.com/NicolasPureza/aula-03-projeto-05-copia-repositorio) | [🌐 Ver online](https://aula-03-projeto-05-copia.vercel.app) | React / Vite |
-| **08** | Aula 03 | Comparação entre Frameworks Front-end | [🔗 Repositório](https://github.com/NicolasPureza/aula-03-comparacao-frameworks) | — | Markdown |
-| **09** | Aula 04 | Pesquisa de 10 Projetos GitHub com APIs | [🔗 Repositório](https://github.com/NicolasPureza/aula-04-pesquisa-apis) | — | Markdown |
-| **10** | Aula 04 | API de Data e Hora (Back-end) | [🔗 Repositório](https://github.com/NicolasPureza/aula-04-backend-data-hora) | *(Render)* | Node.js / Express / CORS |
-| **11** | Aula 04 | Consumo da API de Data e Hora (Front-end) | [🔗 Repositório](https://github.com/NicolasPureza/aula-04-frontend-data-hora) | [🌐 Ver online](https://aula-04-frontend-data-hora.vercel.app) | React / Fetch API |
-| **12** | Aula 05 | API REST CRUD de Notas + Postman | [🔗 Repositório](https://github.com/NicolasPureza/aula-05-backend-projeto-notas) | *(Render)* | Node.js / Express / JSON |
-| **13** | Aula 05 | Gerenciador de Notas CRUD (Front-end) | [🔗 Repositório](https://github.com/NicolasPureza/aula-05-frontend-notas-react) | [🌐 Ver online](https://aula-05-frontend-notas-react.vercel.app) | React / Fetch API |
-| **14** | Aula 06 | NEXA — Gestão de Projeto (Scrum / Kanban / Backlog) | [🔗 Repositório](https://github.com/NicolasPureza/aula-06-gestao-projetos-frontend) | — | Scrum / Kanban / Markdown |
-| **15** | Aula 07 | Box Model + Flexbox (20 elementos) | [🔗 Repositório](https://github.com/NicolasPureza/aula-07-frameworks-css) | [🌐 Ver online](https://aula-07-css-flexbox.vercel.app) | CSS3 |
-| **16** | Aula 07 | Projeto com +30 Classes Utilitárias | [🔗 Repositório](https://github.com/NicolasPureza/aula-07-frameworks-css) | [🌐 Ver online](https://aula-07-tailwind.vercel.app) | Tailwind CSS v4 |
-| **17** | Aula 08 | Gerenciador de Tarefas (JSX, Props, Listas, Condicional) | [🔗 Repositório](https://github.com/NicolasPureza/aula-08-projeto-react-01) | [🌐 Ver online](https://aula-08-projeto-react-01.vercel.app) | React |
-| **18** | Aula 09 | Catálogo de Cursos Online (Hooks, Forms, API, Router) | [🔗 Repositório](https://github.com/NicolasPureza/aula-09-projeto-react-02) | [🌐 Ver online](https://aula-09-projeto-react-02.vercel.app) | React / React Router |
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Front-end** | HTML5, JavaScript (ES6+), TypeScript, React, React Router, Vue.js, Angular, Next.js |
+| **Estilização** | CSS3 (Box Model, Flexbox, Media Queries), Tailwind CSS v4 |
+| **Back-end & APIs** | Node.js, Express.js, REST, Fetch API, CORS, JSON, Postman |
+| **Versionamento & Deploy** | Git, GitHub, Versionamento Semântico (SemVer), Vercel, Render |
+| **Gestão de Projetos** | Scrum, Product Backlog, User Stories, Kanban, Definition of Done |
 
-## 🛠️ Tecnologias Estudadas
-- HTML5, CSS3 (Box Model & Flexbox) e Tailwind CSS
-- JavaScript (ES6+)
-- React & React Router
-- Vue.js
-- Angular
-- Next.js
-- Node.js, Express.js & Postman
-- Git & GitHub
-- Vercel & Render
+---
 
-## 🎓 Disciplina
-**Frameworks Front-end** — Prof. Me. Deivison S. Takatu
+## Como Executar os Projetos Localmente
+
+```bash
+# 1. Clone o repositório do projeto desejado
+git clone https://github.com/NicolasPureza/<nome-do-repositorio>.git
+
+# 2. Acesse a pasta e instale as dependências (projetos Node/React/Vue/Angular/Next)
+cd <nome-do-repositorio>
+npm install
+
+# 3. Inicie o servidor de desenvolvimento
+npm run dev       # React (Vite), Vue, Next.js
+npm start         # Angular ou servidores Express (node api.js / node server.js)
+```
+
+> **Observação sobre os front-ends das Aulas 04 e 05:** em ambiente de produção, defina a variável `VITE_API_URL` na Vercel apontando para o respectivo Web Service publicado no Render.
+
+---
+
+<div align="center">
+
+**Disciplina:** Frameworks Front-end — SENAI  
+**Docente:** Prof. Me. Deivison S. Takatu
+
+</div>
