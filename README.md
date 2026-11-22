@@ -1,6 +1,10 @@
 <div align="center">
 
+<img src="./assets/dev-banner.jpg" alt="Programador Front-end movido a CSS e Café" width="100%" />
+
 # Frameworks Front-end — Portfólio & Resumos
+
+*“Funciona na minha máquina — e agora no GitHub e na Vercel também.”*
 
 Repositório central da disciplina **Frameworks Front-end** (SENAI), reunindo os resumos teóricos das aulas, materiais de apoio e o catálogo completo de projetos práticos publicados no GitHub e na Vercel.
 
@@ -59,8 +63,10 @@ Este repositório consolida toda a jornada prática e teórica desenvolvida ao l
 ## Estrutura de Pastas (Resumos e Materiais)
 
 ```text
-FrontEnd-Summary/
+frameworks-frontend-portfolio/
 ├── README.md
+├── assets/
+│   └── dev-banner.jpg
 ├── Aula 01 - Apresentação da Disciplina/
 │   ├── RAula1.md
 │   └── Aula 01 - Apresentação da Disciplina e Contextualização-2.pdf
